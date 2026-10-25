@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.pnpm-store/
+.pnpm-state/
+.pnpm-home/
+.cache/
+checks/
+*.tsbuildinfo
+*.log
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+DEPLOYMENT_PLAN.md
+.tools/
+.private/
